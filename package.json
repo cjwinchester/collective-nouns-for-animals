@@ -1,0 +1,15 @@
+{
+  "name": "animal-venery-scraper",
+  "version": "0.0.0",
+  "description": "Scrape a Wikipedia page that lists animal group nouns.",
+  "main": "venery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cody Winchester <cjwinchester@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.74.0"
+  }
+}
